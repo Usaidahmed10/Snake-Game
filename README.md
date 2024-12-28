@@ -16,3 +16,19 @@ A classic Snake Game built using Python's `turtle` module. Navigate the snake to
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/snake-game.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd snake-game
+   ```
+3. Run the game:
+   ```bash
+   python snake_game.py
+   ```
+
+## Prerequisites
+- Python 3.x
+- `turtle` module (pre-installed with Python)
+
+## Screenshot
+
