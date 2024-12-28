@@ -1,41 +1,18 @@
-Snake-Game
+# Snake Game 🐍
 
-A Python-based Snake Game using the turtle module. Eat food, grow longer, and aim for the highest score while avoiding collisions!
+A classic Snake Game built using Python's `turtle` module. Navigate the snake to collect food and grow longer while avoiding collisions with the walls or yourself!
 
-Features
+## Features
+- Simple gameplay mechanics.
+- Dynamic difficulty with increasing speed as the snake grows.
+- Score tracking with a high score display.
 
-Simple gameplay mechanics.
+## How to Play
+1. Use the arrow keys (`Up`, `Down`, `Left`, `Right`) to control the snake.
+2. Eat the red food to grow and earn points.
+3. Avoid running into the walls or your own body.
 
-Dynamic difficulty with increasing speed as the snake grows.
-
-Score tracking with a high score display.
-
-How to Play
-
-Use the arrow keys (Up, Down, Left, Right) to control the snake.
-
-Eat the red food to grow and earn points.
-
-Avoid running into the walls or your own body.
-
-Getting Started
-
-Clone the repository:
-
-git clone https://github.com/yourusername/snake-game.git
-
-Navigate to the project directory:
-
-cd snake-game
-
-Run the game:
-
-python snake_game.py
-
-Prerequisites
-
-Python 3.x
-
-turtle module (pre-installed with Python)
-
-Screenshot
+## Getting Started
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/snake-game.git
