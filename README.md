@@ -30,7 +30,6 @@ A classic Snake Game built using Python's `turtle` module. Navigate the snake to
 - Python 3.x
 - `turtle` module (pre-installed with Python)
 
-## Screenshot
-![image](https://github.com/user-attachments/assets/d90b0c0d-af19-419e-9241-8b925cae9f74)
+
 
 
